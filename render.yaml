@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: scet-research-api
+    name: scetbackend
     env: node
     plan: free
     buildCommand: npm install
